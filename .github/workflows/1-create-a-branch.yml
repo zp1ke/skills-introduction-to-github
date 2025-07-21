@@ -8,7 +8,7 @@ name: Step 1 # Create a branch
 on:
   push:
     branches:
-      - "my-first-branch"
+      - "zp1ke"
 
 permissions:
   contents: read
