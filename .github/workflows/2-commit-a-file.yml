@@ -4,7 +4,7 @@ name: Step 2 # Commit a file
 # - Triggers when the user makes a push to the branch 'my-first-branch' and modifies the file 'PROFILE.md'.
 
 on:
-  workworkflow_dispatch:
+  workflow_dispatch:
   push:
     branches:
       - "zp1ke"
